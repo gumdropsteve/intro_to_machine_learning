@@ -6,3 +6,6 @@
 > A heuristic function, also called simply a heuristic, is a function that ranks alternatives in search algorithms at each branching step based on available information to decide which branch to follow. For example, it may approximate the exact solution.[1]
 > - [Heuristic (computer science)](https://en.wikipedia.org/wiki/Heuristic_(computer_science)) - Wikipedia
 
+## Today
+Seattle weather prediction: [Did it rain in Seattle? (1948-2017)](https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017)
+
