@@ -9,3 +9,4 @@
 ## Today
 Seattle weather prediction: [Did it rain in Seattle? (1948-2017)](https://www.kaggle.com/rtatman/did-it-rain-in-seattle-19482017)
 
+![Distributions Screenshot](https://github.com/gumdropsteve/intro_to_machine_learning/blob/main/day_01/Screenshot%5B4%5D.png)
