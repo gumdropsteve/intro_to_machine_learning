@@ -21,7 +21,7 @@
 
 # Here is an example of how to build and populate a hurestic model:
 
-df <- read_csv('~/data/seattle_weather_1948-2017.csv')
+df <- read_csv('https://github.com/gumdropsteve/datasets/raw/master/seattle_weather_1948-2017.csv')
 df[is.na(df)]<-0
 
 # Create an empty dataframe
