@@ -9,6 +9,7 @@
 #### Some Videos
 - [Loss Functions Explained](https://www.youtube.com/watch?v=IVVVjBSk9N0)
 - [Loss Functions - EXPLAINED!](https://www.youtube.com/watch?v=QBbC3Cjsnjg)
+- [Machine learning fundamentals (I): Cost functions and gradient descent](https://towardsdatascience.com/machine-learning-fundamentals-via-linear-regression-41a5d11f5220) (not a video)
 
 #### Note: Supervised vs Unsupervised ML
 > **Supervised learning**: Models that can predict labels based on labeled training data
