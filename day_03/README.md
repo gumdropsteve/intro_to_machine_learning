@@ -33,6 +33,13 @@ The four concepts of true/false negative/positive are measures of your guesses
 These values then serve as a core measure of performance. This information can also be organized using a [confusion matrix](https://en.wikipedia.org/wiki/Confusion_matrix):
 
 ![](https://lh5.googleusercontent.com/P5H1wOfDy7bw8T75tSiJMybXngiiVtKYKGzB3R_YwH3JnytMwYlDGcQzw1yIC0JHKbl6rfgJUgQQ8Qia-FrHMkCjIvfK6_haxIzLndw-Glcrx3RV2Ay2vz7F78l3z8L7xy3bRng)
-#### Reading
-- [05.02-Introducing-Scikit-Learn.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb)
-- [05.03-Hyperparameters-and-Model-Validation.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
+
+## Resources
+- Readings
+  - [05.02-Introducing-Scikit-Learn.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.02-Introducing-Scikit-Learn.ipynb)
+  - [05.03-Hyperparameters-and-Model-Validation.ipynb](https://github.com/jakevdp/PythonDataScienceHandbook/blob/master/notebooks/05.03-Hyperparameters-and-Model-Validation.ipynb)
+- Videos
+  - StatQuest: [Machine Learning Fundamentals: Cross Validation](https://youtu.be/fSytzGwwBVw)
+  - StatQuest: [Machine Learning Fundamentals: The Confusion Matrix](https://youtu.be/Kdsp6soqA7o)
+  - StatQuest: [Machine Learning Fundamentals: Bias and Variance](https://youtu.be/EuBBz3bI-aA)
+  - Machine Learning (YouTube playlist): [youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF](https://www.youtube.com/watch?v=Gv9_4yMHFhI&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF)
