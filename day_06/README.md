@@ -27,6 +27,7 @@
 - In Depth: Linear Regression: [jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html](https://jakevdp.github.io/PythonDataScienceHandbook/05.06-linear-regression.html)
 - Grid search or gradient descent?: [datascience.stackexchange.com/questions/62323/grid-search-or-gradient-descent](https://datascience.stackexchange.com/questions/62323/grid-search-or-gradient-descent)
 - Scikit Learn Cheat Sheet (Python): [github.com/daniel-dc-cd/data_science/blob/master/module_4_ML/Linear%20Regression/Scikit_Learn_Cheat_Sheet_Python.pdf](https://github.com/daniel-dc-cd/data_science/blob/master/module_4_ML/Linear%20Regression/Scikit_Learn_Cheat_Sheet_Python.pdf)
+- (Release) scikit-learn 0.24.1: [github.com/scikit-learn/scikit-learn/releases/tag/0.24.1](https://github.com/scikit-learn/scikit-learn/releases/tag/0.24.1)
 
 #### Videos
 - StatQuest: Linear Models Pt.1 - Linear Regression: [youtu.be/nk2CQITm_eo](https://youtu.be/nk2CQITm_eo)
