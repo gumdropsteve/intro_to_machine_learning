@@ -30,6 +30,7 @@
 #### Sklearn Stuff
 - Scikit Learn Cheat Sheet (Python): [github.com/daniel-dc-cd/data_science/blob/master/module_4_ML/Linear%20Regression/Scikit_Learn_Cheat_Sheet_Python.pdf](https://github.com/daniel-dc-cd/data_science/blob/master/module_4_ML/Linear%20Regression/Scikit_Learn_Cheat_Sheet_Python.pdf)
 - (Release) scikit-learn 0.24.1: [github.com/scikit-learn/scikit-learn/releases/tag/0.24.1](https://github.com/scikit-learn/scikit-learn/releases/tag/0.24.1)
+- Datasets: [scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets](https://scikit-learn.org/stable/modules/classes.html#module-sklearn.datasets)
 
 #### Videos
 - StatQuest: Linear Models Pt.1 - Linear Regression: [youtu.be/nk2CQITm_eo](https://youtu.be/nk2CQITm_eo)
