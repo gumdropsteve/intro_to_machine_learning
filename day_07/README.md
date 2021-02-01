@@ -18,12 +18,12 @@ Slides: https://docs.google.com/presentation/d/14gGuib92IjgNtB6t2rwTOZRRYAx0h874
 
 ## Resources
 #### API Reference
-- sklearn.linear_model.LinearRegression: 
-  - Docs: [scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html) 
-  - Source Code: [github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_base.py](https://github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_base.py#L391)
-- sklearn.linear_model.SGDRegressor:
-  - Docs [scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDRegressor.html)
-  - Source Code: [github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_stochastic_gradient.py](https://github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_stochastic_gradient.py#L1366)
+- sklearn.linear_model.LogisticRegression: 
+  - Docs: [scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html) 
+  - Source Code: [github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_logistic.py#L1012](https://github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_logistic.py#L1012)
+- sklearn.linear_model.SGDClassifier:
+  - Docs [scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html](https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html)
+  - Source Code: [github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_stochastic_gradient.py#L735](https://github.com/scikit-learn/scikit-learn/blob/b3ea3ed6a/sklearn/linear_model/_stochastic_gradient.py#L735)
 
 #### Readings
 - Beginner’s Guide to Logistic Regression with cuML: [medium.com/dropout-analytics/beginners-guide-to-logistic-regression-with-cuml-5061086d8694?source=friends_link&sk=2d8d0f7ddd43ccaaf264afcbadeea231](https://medium.com/dropout-analytics/beginners-guide-to-logistic-regression-with-cuml-5061086d8694?source=friends_link&sk=2d8d0f7ddd43ccaaf264afcbadeea231)
