@@ -1,6 +1,6 @@
 #### Data Dictionary
 - ds: datetime the info was pulled
-- search_filter: search filter applied on top of the city filter
+- search_filter: search filter applied on top of the city filter (None = no search filter)
 - url: listing url
 - title: listing title
 - type: listing type
