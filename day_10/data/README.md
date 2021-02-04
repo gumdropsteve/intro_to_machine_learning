@@ -13,8 +13,8 @@
 - half_baths: number of half-baths the listing offers (missing probably means None)
 - shared_baths: number of shared baths the listing offers (missing probably means None)
 - price: (target) nightly price in $USD
-- avg_rating: average rating by guests
-- n_reviews: number of reveiws by guests
+- avg_rating: average rating by guests (missing could mean None)
+- n_reviews: number of reveiws by guests (missing could mean None)
 - gym_bool: is there a gym?
 - wifi_bool: is there wifi?
 - self_check_in_bool: is there self check-in?
