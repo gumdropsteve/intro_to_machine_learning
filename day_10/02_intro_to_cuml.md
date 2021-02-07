@@ -7,5 +7,5 @@ GitHub: [github.com/rapidsai/cuml](https://github.com/rapidsai/cuml)
 > For large datasets, these GPU-based implementations can complete 10-50x faster than their CPU equivalents. For details on performance, see the cuML Benchmarks Notebook.
 
 Intro Notebook: 
-- BlazingSQL Notebooks: [Welcome_to_BlazingSQL_Notebooks/intro_notebooks/machine_learning.ipynb](https://app.blazingsql.com/jupyter/user-redirect/lab/workspaces/auto-b/tree/Welcome_to_BlazingSQL_Notebooks/intro_notebooks/machine_learning.ipynb)
-- GitHub: [BlazingDB/Welcome_to_BlazingSQL_Notebooks/blob/master/intro_notebooks/machine_learning.ipynb](https://github.com/BlazingDB/Welcome_to_BlazingSQL_Notebooks/blob/master/intro_notebooks/machine_learning.ipynb)
+- BlazingSQL Notebooks: [app.blazingsql.com/jupyter/user-redirect/lab/workspaces/auto-b/tree/Welcome_to_BlazingSQL_Notebooks/intro_notebooks/machine_learning.ipynb](https://app.blazingsql.com/jupyter/user-redirect/lab/workspaces/auto-b/tree/Welcome_to_BlazingSQL_Notebooks/intro_notebooks/machine_learning.ipynb)
+- GitHub: [github.com/BlazingDB/Welcome_to_BlazingSQL_Notebooks/blob/master/intro_notebooks/machine_learning.ipynb](https://github.com/BlazingDB/Welcome_to_BlazingSQL_Notebooks/blob/master/intro_notebooks/machine_learning.ipynb)
