@@ -12,3 +12,5 @@
 
 #### See Also
 ROC / AUC Notebook: [colab.research.google.com/drive/1shtRWB55-mkNIalnLUuQf2UXL-TbB2fB](https://colab.research.google.com/drive/1shtRWB55-mkNIalnLUuQf2UXL-TbB2fB?usp=sharing)
+
+Challenge: [kaggle.com/c/tabular-playground-series-feb-2021](https://www.kaggle.com/c/tabular-playground-series-feb-2021)
