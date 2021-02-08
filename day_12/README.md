@@ -9,3 +9,6 @@
 - StatQuest: Principal Component Analysis (PCA), Step-by-Step: [youtu.be/FgakZw6K1QQ](https://youtu.be/FgakZw6K1QQ)
 - StatQuest: PCA in Python: [youtu.be/Lsue2gEM9D0](https://youtu.be/Lsue2gEM9D0)
 - StatQuest: PCA in R: [youtu.be/0Jp4gsfOLMs](https://youtu.be/0Jp4gsfOLMs)
+
+#### See Also
+ROC / AUC Notebook: [colab.research.google.com/drive/1shtRWB55-mkNIalnLUuQf2UXL-TbB2fB](https://colab.research.google.com/drive/1shtRWB55-mkNIalnLUuQf2UXL-TbB2fB?usp=sharing)
