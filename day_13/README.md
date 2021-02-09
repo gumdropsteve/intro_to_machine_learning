@@ -3,5 +3,5 @@
 
 #### Videos
 - StatQuest: Random Forests Part 1 - Building, Using and Evaluating: [youtu.be/J4Wdy0Wc_xQ](https://youtu.be/J4Wdy0Wc_xQ)
-- Bootstrap aggregating bagging: outu.be/2Mg8QD0F1dQ](https://youtu.be/2Mg8QD0F1dQ)
-- StatQuest: Random Forests Part 2: Missing data and clustering: outu.be/nyxTdL_4Q-Q](https://youtu.be/nyxTdL_4Q-Q)
+- Bootstrap aggregating bagging: [youtu.be/2Mg8QD0F1dQ](https://youtu.be/2Mg8QD0F1dQ)
+- StatQuest: Random Forests Part 2: Missing data and clustering: [youtu.be/nyxTdL_4Q-Q](https://youtu.be/nyxTdL_4Q-Q)
